@@ -1,0 +1,31 @@
+imp1
+
+RED : Red is just in fornt of medbay, he is a bad player, so you can easily kill him.
+BLUE : Blue is at cams, he also is a bad player, so he is a easy kill too.
+GREEN : Green is a good player, he is in electricity, wich means that you possibly can kill him.
+PINK : Pink is a pro player, he is in nav, we don't know if it is safe to kill him...
+
+	part1BLUEROUTE
+
+	RED : Red is idling in the cafeteria.
+	PINK : Pink is doing scan. 
+	GREEN : Green is watching pink.(if you choose him, pink opens you mspaint)
+
+		part2BLUEROUTE
+
+		PINK : in elec doin tasks and no homies around here
+		GREEN : eating pitzah™️
+
+			blueroute is winner with green, blue route :
+			first kill blue, then kill red, then kill pink.
+
+s	sus1
+c	this is for test (sussy boi route)
+r	
+a	innocent1
+p	
+p	RED : Red is in front of the entrace of medbay.
+e	BLUE : Blue is at cams.
+d	PINK : Pink is in nav
+.	GREEN : Green is in elec.
+
